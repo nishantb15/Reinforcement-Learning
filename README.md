@@ -6,7 +6,7 @@ pip3 install gym
 pip3 install torch
 
 Then run:
-Python3 tabular.py
+python3 tabular.py
 
 To visualize the code:
-Python3 mp7.py –model models/tabular.npy
+python3 mp7.py –model models/tabular.npy
