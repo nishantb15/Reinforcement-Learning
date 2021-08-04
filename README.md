@@ -11,4 +11,4 @@ python3 tabular.py
 To visualize the code:
 python3 mp7.py –model models/tabular.npy
 
-![image](https://github.com/nishantb15/Reinforcement-Learning/blob/main/Animated%20GIF-source.gif)
+![image](https://github.com/nishantb15/Reinforcement-Learning/blob/main/Animated%20GIF-downsized_large.gif)
